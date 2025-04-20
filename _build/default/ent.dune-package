@@ -1,0 +1,4 @@
+(lang dune 3.18)
+(name ent)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (ent)))
